@@ -1,0 +1,41 @@
+body{
+    background-image: url(pizza/background.jpg);
+    background-attachment: fixed;
+    height: 200%;
+}
+#menu{
+    margin-left: 500px;
+    padding-left: 500px;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 300px;
+}
+h1{
+    color: white;
+    margin-left: 500px;
+    padding-left: 500px;
+}
+input{
+    background-color: rgb(255, 254, 167);
+    height: 50px;
+    width: 200px;
+    border: solid black;
+    border-radius: 10px;
+}
+#pizzaa{
+    margin-left:250px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+    height: 50px;
+    width: 700px;
+}
+button{
+    height: 40px;
+        width: 40px;
+    background-color: dimgrey;
+    border-radius: 40px;
+margin:left:90px;
+    margin-right: 50px;
+}
